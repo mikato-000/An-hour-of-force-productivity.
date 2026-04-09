@@ -34,17 +34,3 @@ while True:
     
     else:
         print ("Car ID not found")
-
-
-
-    
-    
-
-
-
-
-
-#abstraction = generalizing rules
-#inheritance = take property from abstraction
-#Polymorphism = give different output from same def/mode
-#Encapsulation = private property
